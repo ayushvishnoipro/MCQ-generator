@@ -1,0 +1,16 @@
+[2024-04-24 02:26:14,524] 35 root - INFO - creating response
+[2024-04-24 02:26:15,223] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2024-04-24 02:26:17,305] 35 root - INFO - creating response
+[2024-04-24 02:26:17,638] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2024-04-24 02:26:20,051] 35 root - INFO - creating response
+[2024-04-24 02:26:20,410] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2024-04-24 02:26:24,358] 35 root - INFO - creating response
+[2024-04-24 02:26:24,683] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2024-04-24 02:26:26,164] 35 root - INFO - creating response
+[2024-04-24 02:26:26,498] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2024-04-24 02:26:27,709] 35 root - INFO - creating response
+[2024-04-24 02:26:28,193] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2024-04-24 02:26:30,172] 35 root - INFO - creating response
+[2024-04-24 02:26:30,506] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2024-04-24 02:33:24,915] 35 root - INFO - creating response
+[2024-04-24 02:33:25,375] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
